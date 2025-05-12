@@ -1,3 +1,5 @@
+![Screenshot](ProjectScreenshots/Screenshots.jpg)
+
 # Arabic Named Entity Recognition (ANER)
 
 This project fine-tunes a pre-trained BERT model (`asafaya/bert-base-arabic`) for Named Entity Recognition (NER) on Arabic text using the WikiFANE_Gold_2014_500K dataset. It includes preprocessing, model training, evaluation, and a GUI demo using Gradio and Tkinter.
